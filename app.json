@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "cv",
-    "slug": "cv",
+    "name": "Matthieu SIBERT",
+    "slug": "Matthieu-Sibert-cv",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,13 +20,14 @@
       "supportsTablet": true
     },
     "android": {
+      "package":"com.matthieusibert.cv",
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/icon3.png",
         "backgroundColor": "#FFFFFF"
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/icon.png"
     }
   }
 }
